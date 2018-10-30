@@ -1,0 +1,1 @@
+D:\Web Api\WCF\StudentService\StudentService\obj\Debug\StudentService.csprojResolveAssemblyReference.cache
